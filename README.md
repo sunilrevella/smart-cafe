@@ -1,1 +1,3 @@
 # smart-cafe
+
+IT IS A SMART VENDERING MACHINE
